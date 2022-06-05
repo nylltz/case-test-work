@@ -1,0 +1,31 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-case10101183371-dev-125946-authRole",
+      "UnauthRoleArn": "arn:aws:iam::919678296761:role/amplify-case10101183371-dev-125946-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::919678296761:role/amplify-case10101183371-dev-125946-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-case10101183371-dev-125946-deployment",
+      "UnauthRoleName": "amplify-case10101183371-dev-125946-unauthRole",
+      "StackName": "amplify-case10101183371-dev-125946",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:919678296761:stack/amplify-case10101183371-dev-125946/3d805c70-d97b-11ec-880b-06ac20319d9a",
+      "AmplifyAppId": "d3kk9mcuhorya9",
+      "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-case10101183371-dev-125946-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
+    },
+    "categories": {
+      "auth": {
+        "case1010118337107dcbfe407dcbfe4": {
+          "facebookAppId": "536435137131021",
+          "googleClientId": "212450380560-lbj2aqgr2kmjqce4tp1n41i438ki0o03.apps.googleusercontent.com"
+        }
+      },
+      "function": {
+        "case1010118337107dcbfe407dcbfe4PostConfirmation": {
+          "GROUP": "Admins",
+          "deploymentBucketName": "amplify-case10101183371-dev-125946-deployment",
+          "s3Key": "amplify-builds/case1010118337107dcbfe407dcbfe4PostConfirmation-31766a334674656b7269-build.zip"
+        }
+      }
+    }
+  }
+}
