@@ -13,12 +13,6 @@
       "AuthTriggerTemplateURL": "https://s3.amazonaws.com/amplify-case10101183371-dev-125946-deployment/amplify-cfn-templates/auth/auth-trigger-cloudformation-template.json"
     },
     "categories": {
-      "auth": {
-        "case1010118337107dcbfe407dcbfe4": {
-          "facebookAppId": "536435137131021",
-          "googleClientId": "212450380560-lbj2aqgr2kmjqce4tp1n41i438ki0o03.apps.googleusercontent.com"
-        }
-      },
       "function": {
         "case1010118337107dcbfe407dcbfe4PostConfirmation": {
           "GROUP": "Admins",
