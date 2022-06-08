@@ -19,6 +19,9 @@
           "deploymentBucketName": "amplify-case10101183371-dev-125946-deployment",
           "s3Key": "amplify-builds/case1010118337107dcbfe407dcbfe4PostConfirmation-31766a334674656b7269-build.zip"
         }
+      },
+      "auth": {
+        "case101011833710d65eb72": {}
       }
     }
   }
